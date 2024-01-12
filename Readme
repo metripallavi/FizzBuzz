@@ -1,0 +1,29 @@
+# FizzBuzz Example
+
+## Overview
+This project showcases my implementation of the FizzBuzz program using JavaScript.
+
+## Getting Started
+To see the FizzBuzz program , create a `index.html` file.
+
+## Definition 
+Fizz Buzz is a programming problem where a series of numbers are iterated, and for each number that is divisible by 3, its called as "Fizz"; for each number divisible by 5, its called as "Buzz"; for numbers divisible by both 3 and 5, the combination "FizzBuzz" is output. For all other numbers that do not meet these conditions, the number itself is output.
+
+## FizzBuzz Logic
+I have written the FizzBuzz logic in the `test.js` file, which operates in the following manner:
+- The program smoothly goes through numbers from 1 to 100.
+- Whenever a number is divisible by both 3 and 5, it displays "FizzBuzz".
+- If a number is divisible by 3, it prints "Fizz".
+- If a number is divisible by 5, it shows "Buzz".
+- For all other cases, it straightforwardly prints the number itself.
+
+## File Structure
+This project contains two primary files:
+- `index.html`: It's an HTML file responsible for visually representing the FizzBuzz Example.
+- `test.js`: This JavaScript file holds the core FizzBuzz logic.
+
+## Usage
+open the `index.html` file in any JavaScript-compatible web browser 
+
+## Author
+Pallavi Metri
